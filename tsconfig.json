@@ -1,0 +1,21 @@
+{
+  "compilerOptions": {
+    "outDir": "./dist-types",
+    "rootDir": ".",
+    "target": "ESNext",
+    "module": "ESNext",
+    "moduleResolution": "NodeNext",
+    "lib": ["es2017", "dom"],
+    "allowJs": true,
+    "checkJs": true,
+    "strict": true,
+    "noImplicitThis": true,
+    "emitDeclarationOnly": true,
+    "alwaysStrict": true,
+    "declaration": true,
+    "declarationMap": true,
+    "sourceMap": true
+  },
+  "include": ["src"],
+  "exclude": []
+}
