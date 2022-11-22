@@ -1,6 +1,7 @@
 # Different Declaration output for same code from js and ts file
 
-This is a test project to demonstrate a bug in the TypeScript compiler when using JavaScript
+This is a test project to demonstrate a bug in the TypeScript compiler when using JavaScript.
+See https://github.com/microsoft/TypeScript/issues/51622
 
 ## Outline
 
