@@ -13,7 +13,7 @@ import { LitElement } from "lit";
 export class ElementA extends LitElement {}
 ```
 
-👉 Output: [dist-types/ElementA.d.ts](dist-types/ElementA.d.ts)
+👉 Output: [dist-types/src/ElementA.d.ts](dist-types/src/ElementA.d.ts)
 
 ```js
 import { LitElement } from "lit";
@@ -38,7 +38,7 @@ import { LitElement } from "lit-element/lit-element.js";
 
 ### Actual Behavior:
 
-👉 Output: [dist-types/ElementB.d.ts](dist-types/ElementB.d.ts)
+👉 Output: [dist-types/src/ElementB.d.ts](dist-types/src/ElementB.d.ts)
 
 ```js
 export class ElementB extends LitElement {}
