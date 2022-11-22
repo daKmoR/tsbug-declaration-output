@@ -1,4 +1,4 @@
-# TS Bug Declaration Import
+# Different Declaration output for same code from js and ts file
 
 This is a test project to demonstrate a bug in the TypeScript compiler when using JavaScript
 
